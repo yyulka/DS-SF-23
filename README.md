@@ -8,7 +8,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Schedule
 
-| Week | Date | Class | Dues and assigned |
+| Week | Date | Class | Due |
 |:---:|:---:|:---|:---|
 | 0 | | [Onboarding](./onboarding) | |
 | | | **Unit 1 - Research Design and Exploratory Data Analysis** |
