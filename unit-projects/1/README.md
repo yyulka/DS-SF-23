@@ -45,11 +45,11 @@ The dataset is available [here](../dataset).
 
 For this project we will be using an iPython notebook.  Notebooks are a handy way to communicate your research with your team and share your analysis.  Using markup syntax will allow you create more visually appealing notebooks.
 
-* Open the [starter code notebook](./starter-code/unit-project-1-starter-code.ipynb) in Anaconda.
+* Open the [starter code notebook](./code/unit-project-1-starter-code.ipynb) in Anaconda.
 
 ### Sample Deliverables
 
-Check out the [sample notebook](./starter-code/unit-project-1-sample.ipynb), which includes a data dictionary and responses to questions.  Wonder how to format your notebook the same way?  Simply double-click on any section to view the markdown.
+Check out the [sample notebook](./code/unit-project-1-sample.ipynb), which includes a data dictionary and responses to questions.  Wonder how to format your notebook the same way?  Simply double-click on any section to view the markdown.
 
 ![Sample Notebook](./assets/unit-project-1-sample.jpg)
 

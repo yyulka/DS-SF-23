@@ -13,7 +13,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 0 | | [Onboarding](./onboarding) | |
 | | | **Unit 1 - Research Design and Exploratory Data Analysis** |
 | 1 | 5/5 | [What is Data Science](./classes/01) | |
-| 1 | 5/10 | Research Design and _pandas_ | |
+| 1 | 5/10 | [Research Design and _pandas_](./classes/02) | |
 | 2 | 5/12 | Statistics Fundamentals | **[Unit Project 1](./unit-projects/1) due** |
 | 2 | 5/17 | Statistics Fundamentals, Part 2 | |
 | 3 | 5/19 | Flexible Class Session | **[Unit Project 2](./unit-projects/2) due** |
